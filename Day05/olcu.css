@@ -1,0 +1,13 @@
+html {
+    background-color: blue;
+}
+.contanier {
+    background-color: red;
+     width: 100vh;
+     height: 100vh;
+}
+.test {
+    background-color: blueviolet;
+   padding: 5rem 0;
+   
+}
